@@ -3,7 +3,7 @@ import web
 render = web.template.render('views/')
 
 urls = (
-    '/home','index'
+    '/','index'
 )
 
 class index:
